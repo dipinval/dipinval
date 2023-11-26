@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Dipin Panta</h1>
-<h3 align="center">A passionate Valorant player</h3>
+<h3 align="center">A passionate learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipinval&label=Profile%20views&color=0e75b6&style=flat" alt="dipinval" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipinval" alt="dipinval" /></a> </p>
 
 
-- 🔭 I’m currently working on Valorant ranking grinding
+- 🔭 I’m currently working on Web development
 
-- 🌱 I’m currently learning **Valorant competitive**
+- 🌱 I’m currently learning **ML**
 
 - 📫 How to reach me **dipinpanta@gmail.com**
 
