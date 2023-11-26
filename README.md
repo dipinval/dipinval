@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Valorant ranking grinding
 
-- 🌱 I’m currently learning **Valorant competitative**
+- 🌱 I’m currently learning **Valorant competittive**
 
 - 📫 How to reach me **dipinpanta@gmail.com**
 
